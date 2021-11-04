@@ -26,14 +26,14 @@
 
 # 2 第二问
 
-使用LSTM实现的多变量分类
+使用LSTM实现的多变量分类  
 Python 3.6+  
 Tensorflow 2.0
 
 # 3 第三问
 
-使用LSTM实现的多变量KPI预测
-Python 3.6 + 
+使用LSTM实现的多变量KPI预测  
+Python 3.6 +   
 Tensorflow 2.0+
 
 部分数据模型拟合效果
