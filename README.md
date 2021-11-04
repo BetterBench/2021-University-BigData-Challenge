@@ -27,16 +27,14 @@
 # 2 第二问
 
 使用LSTM实现的多变量分类
-
-
-![2](https://pic3.zhimg.com/80/v2-c4dcfdb359bede4f2f414daa93ef518a_720w.jpg)  
+Python 3.6+  
+Tensorflow 2.0
 
 # 3 第三问
 
 使用LSTM实现的多变量KPI预测
-
-
-![3](https://pic4.zhimg.com/80/v2-d7aef486b7944bd591f5bbc9d4595323_720w.jpg)  
+Python 3.6 + 
+Tensorflow 2.0+
 
 部分数据模型拟合效果
 
