@@ -28,14 +28,16 @@
 
 使用LSTM实现的多变量分类
 
-![3](https://pic3.zhimg.com/80/v2-c4dcfdb359bede4f2f414daa93ef518a_720w.jpg)  
+
+![2](https://pic3.zhimg.com/80/v2-c4dcfdb359bede4f2f414daa93ef518a_720w.jpg)  
 
 # 3 第三问
 
 使用LSTM实现的多变量KPI预测
 
-![4](https://pic4.zhimg.com/80/v2-d7aef486b7944bd591f5bbc9d4595323_720w.jpg)  
+
+![3](https://pic4.zhimg.com/80/v2-d7aef486b7944bd591f5bbc9d4595323_720w.jpg)  
 
 部分数据模型拟合效果
 
-![2](https://pic1.zhimg.com/80/v2-193bf313aed9bf2188a2c75d4ec99cbc_720w.jpg)
+![4](https://pic1.zhimg.com/80/v2-193bf313aed9bf2188a2c75d4ec99cbc_720w.jpg)
