@@ -8,7 +8,7 @@
 
 [【完整代码下载 823316627Bandeng 的github】](https://link.zhihu.com/?target=https%3A//github.com/823316627bandeng/2021-University-BigData-Challenge)  
 
-[【二等奖24论文下载】](https://mianbaoduo.com/o/bread/YpiWk5hx)
+[【二等奖24页论文下载】](https://mianbaoduo.com/o/bread/YpiWk5hx)
 
 # 1 第一问
 
