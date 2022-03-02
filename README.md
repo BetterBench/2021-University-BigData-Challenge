@@ -6,9 +6,9 @@
 
 [【2021 高校大数据挑战赛-智能运维中的异常检测与趋势预测】2 方案设计与实现-Python](https://zhuanlan.zhihu.com/write)
 
-[【完整代码下载 823316627Bandeng 的github】](https://link.zhihu.com/?target=https%3A//github.com/823316627bandeng/2021-University-BigData-Challenge)
+[【完整代码下载 823316627Bandeng 的github】](https://link.zhihu.com/?target=https%3A//github.com/823316627bandeng/2021-University-BigData-Challenge)  
 
-
+[【二等奖24论文下载】](https://mianbaoduo.com/o/bread/YpiWk5hx)
 
 # 1 第一问
 
